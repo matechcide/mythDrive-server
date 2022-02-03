@@ -1,3 +1,3 @@
 # mythDrive-server
 
-softWare : https://github.com/matechcide/mythDrive-software
+software : https://github.com/matechcide/mythDrive-software
